@@ -1,3 +1,3 @@
 (() => {
   console.log('Server started');
-})()
+})();
