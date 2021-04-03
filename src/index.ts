@@ -1,3 +1,3 @@
-(() => {
-  console.log('Server started');
-})();
+import './Creational/Singleton';
+
+console.log('>> All patterns has been executed successfully');
